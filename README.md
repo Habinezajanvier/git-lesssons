@@ -1,1 +1,2 @@
 # git-lesssons
+Team collaboration
